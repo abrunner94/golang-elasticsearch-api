@@ -1,5 +1,5 @@
 # Go and Elasticsearch
-This project shows how you can run both Go and Elasticsearch in a container using the `docker-compose.yaml` task definitions.
+This project shows how you can run both Go and Elasticsearch in a container using the `docker-compose.yaml` service definitions.
 ## Running the app
 To run the Go and Elasticsearch API together in a container:
 1. `$ cd search-api`<br/>`$ dep ensure`<br/><br/>
